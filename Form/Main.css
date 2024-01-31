@@ -1,0 +1,142 @@
+
+.Main {
+    max-width: 1100px;
+    background: linear-gradient(lavender, yellow, blue, gray);
+    text-align: center;
+    margin: auto;
+}
+.Main1 {
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    margin-top: 60px;
+    background: white;
+}
+
+.Main2 {
+    width: 90%;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+    margin-top: 35px;
+}
+
+.Name {
+    display: flex;
+    margin-top: -18px;
+    align-items: center;
+}
+
+.Name1 {
+    display: flex;
+    gap: 10px;
+    padding-left: 21%;
+    padding-top: 62px;
+    margin-left: 95px;
+}
+input[type="text"] {
+    border: none;
+    border-bottom: 2px solid lightseagreen;
+    width: 249px;
+    outline: none;
+}
+.emp {
+    margin-top: 18px;
+}
+label {
+    display: grid;
+}
+
+label.id {
+    display: flex;
+}
+
+.Employee {
+    padding-left: 148px;
+    margin-top: 31px;
+}
+
+input.employee1 {
+    width: 157%;
+    margin: 9%;
+}
+.ratingheart {
+    font-size: 66px;
+    margin-top: -112px;
+    padding-bottom: 80px;
+    margin-left: 102px;
+}
+
+.ratingheart1 {
+    font-size: 66px;
+    margin-top: -112px;
+    padding-bottom: 80px;
+    margin-left: 102px;
+}
+
+.dropdown {
+ margin-top: 46px;
+}
+
+.rating21 {
+    display: flex;
+    justify-content: space-between;
+}
+
+select {
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid lightseagreen;
+    outline: none;
+    width: 550px;
+    margin-left: 170px;
+    color: lightseagreen;
+    font-size: 17px;
+}
+
+.rating {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.radio {
+    margin-right: 356px;
+}
+
+textarea {
+    border: none;
+    border-bottom: 2px solid lightseagreen;
+    outline: none;
+    width: 550px;
+}
+button {
+    padding: 8px;
+    background-color: darkcyan;
+    margin: 22px 9px 15px 10px;
+    font-size: 20px;
+    border-radius: 8px;
+    width: 150px;
+    border: none;
+    color: white;
+}
+.radio-grid {
+    margin-right: 416px;
+    margin-top: 15px;
+}input.rad {
+    width: 78px;
+    height: 38px;
+}
+label.q1 {
+    display: flex;
+    flex-direction: row;
+}
+h5 {
+    color: lightseagreen;
+}
+h4 {
+    color: lightseagreen;
+}
